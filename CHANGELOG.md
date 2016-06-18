@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.14.0
+
+* Update jquery-timeago and locales from upstream
+* Add turbolinks5 event (#36)
+
 ## 2.13.0
 
 * Update jquery-timeago and locales from upstream
