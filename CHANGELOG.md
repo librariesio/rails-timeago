@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.16.0
+
+* Update jquery-timeago and locales from upstream
+
+## 2.15.0
+
+* Update jquery-timeago and locales from upstream
+* Remove an use of derpecated "ready" event (compatible with jQuery 3.0) (#40)
+
 ## 2.14.0
 
 * Update jquery-timeago and locales from upstream
